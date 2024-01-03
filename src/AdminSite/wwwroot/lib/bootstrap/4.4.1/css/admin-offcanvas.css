@@ -54,7 +54,7 @@ body {
 
 .class1 {
     flex: 0 0 10px;
-    background-color: #333;
+    background-color: #253d2f !important;;
 }
 
 .navbar-toggler-icon {
