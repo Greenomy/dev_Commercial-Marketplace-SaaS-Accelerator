@@ -114,3 +114,10 @@ The video is rather lengthy, so use the chapter links in the video description t
 
 ## Alternative deployments
 There are other ways to deploy the SaaS Accelerator environment (e.g. development, maual deployment, etc).  Additional instruction can be found [here](Advanced-Instructions.md).
+
+
+git clone https://github.com/Greenomy/dev_Commercial-Marketplace-SaaS-Accelerator.git --depth 1; `
+cd ./Commercial-Marketplace-SaaS-Accelerator/deployment; `
+.\Upgrade.ps1 `
+-WebAppNamePrefix "gt02" `
+-ResourceGroupForDeployment "gt02-rg" `
