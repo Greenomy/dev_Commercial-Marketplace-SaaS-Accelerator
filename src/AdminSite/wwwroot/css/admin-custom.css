@@ -12,10 +12,10 @@
 }
 
 .cm-top-nav-bar {
-    background-color: #333 !important;
+    background-color: #253d2f !important;
     margin-bottom: 0;
     border-radius: 0;
-    height: 48px;
+    font-weight: 400;
 }
 
 .cm-menu-bar {

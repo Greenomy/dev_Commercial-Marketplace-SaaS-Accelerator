@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "MSSQL",
+            "name": "test",
+            "connectString": "Data Source=tcp:gt02-sql.database.windows.net,1433;Initial Catalog=AMPSaaSDB;User Id=saasdbadmin891@gt02-sql.database.windows.net;Password=ODU2Nzk0ZTQtODMzMC00NWQ2LTgwOWYtMDZiMTJkMDcwYjcy=;"
+        }
+    ]
+}
